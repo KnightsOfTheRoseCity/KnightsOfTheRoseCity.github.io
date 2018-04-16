@@ -5,6 +5,4 @@
 layout: home
 ---
 
-# About Us
-
 This is where we write up a paragraph all about the guild.
